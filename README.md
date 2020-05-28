@@ -1,2 +1,2 @@
-# pubcheckertest9.com
-Testing site classified as one that is known to mislead users into accepting the notification permission.
+# pubcheckertest8.com
+Testing site classified by preload data, but not by Safe Browsing, as one that is known to mislead users into accepting the notification permission.
